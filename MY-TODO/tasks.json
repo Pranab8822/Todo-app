@@ -1,0 +1,26 @@
+{
+    "Alice": {
+        "password": "alice123",
+        "tasks": [
+            "Buy milk",
+            "Complete homework",
+            "Call mom",
+            "drink milk"
+        ]
+    },
+    "Bob": {
+        "password": "bob456",
+        "tasks": [
+            "Go jogging",
+            "Read book"
+        ]
+    },
+    "Charlie": {
+        "password": "charlie789",
+        "tasks": [
+            "Finish project",
+            "Attend meeting",
+            "Pay bills"
+        ]
+    }
+}
